@@ -52,6 +52,8 @@ To run this project on your local machine, follow these steps:
    ```
    This will run the app in the development mode. Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
+  ![](public/file.gif)
+  
 5. **Explore the App**
    
    The page will reload when you make changes. You may also see any lint errors in the console.
